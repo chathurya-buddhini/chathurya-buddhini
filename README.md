@@ -1,21 +1,43 @@
-<h1 align="center">Hi 👋, I'm Chathurya</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+## 👋 Hi there!
+# I'm Chathurya Buddhini 😀
 
-- 🌱 I’m currently learning **java and web developing**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;)](https://git.io/typing-svg) <br>
 
-- 📫 How to reach me **chathuryabuddhini66@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chathurya buddhini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathurya buddhini" height="30" width="40" /></a>
-<a href="https://fb.com/chathurya buddhini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathurya buddhini" height="30" width="40" /></a>
+---
+
+### 🤝 Let's connect
+<a href="https://www.linkedin.com/in/chathurya-buddhini-86860127b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</a>
+
+---
+
+### ⚙ Languages and Tools
+
+<p>
+    <img alt="Java" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/184143/java.svg"/>
+    <img alt="JavaScript" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349419/javascript.svg"/>
+    <img alt="TypeScript" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349540/typescript.svg"/>
+    <img alt="React" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354259/react.svg"/>
+    <img alt="Spring" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/376350/spring.svg"/>
+    <img alt="NodeJS" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/378837/node.svg"/>
+    <img alt="MongoDB" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373845/mongo.svg"/>
+    <img alt="GitHub" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png"/>
+    <img alt="VSCode" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374171/vscode.svg"/>
+    <img alt="InteliJ" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"/>
+    <img alt="SceneBuilder" width="20px" style="padding-right:10px;" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1"/>
+   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathurya-buddhini&show_icons=true&locale=en&layout=compact" alt="chathurya-buddhini" /></p>
+### 📈 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathurya-buddhini&show_icons=true&locale=en" alt="chathurya-buddhini" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=themiu&locale=en&hide_title=false&layout=compact&card_width=900&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+<p><img alt="" src="https://github-readme-stats.vercel.app/api?username=themiu&amp;show_icons=true&amp;theme=gruvbox" style="height:195px; width:400px" />
+&nbsp; &nbsp;
+<img alt="" src="https://streak-stats.demolab.com?user=themiu&amp;theme=gruvbox&amp;border_radius=1" style="height:197px; width:400px" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathurya-buddhini&" alt="chathurya-buddhini" /></p>width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
