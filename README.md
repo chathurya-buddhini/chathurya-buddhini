@@ -34,10 +34,10 @@
 
 ### 📈 Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=themiu&locale=en&hide_title=false&layout=compact&card_width=900&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
-<p><img alt="" src="https://github-readme-stats.vercel.app/api?username=themiu&amp;show_icons=true&amp;theme=gruvbox" style="height:195px; width:400px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chathurya-buddhini&locale=en&hide_title=false&layout=compact&card_width=900&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+<p><img alt="" src="https://github-readme-stats.vercel.app/api?username=chathurya-buddhini&amp;show_icons=true&amp;theme=gruvbox" style="height:195px; width:400px" />
 &nbsp; &nbsp;
-<img alt="" src="https://streak-stats.demolab.com?user=themiu&amp;theme=gruvbox&amp;border_radius=1" style="height:197px; width:400px" />
+<img alt="" src="https://streak-stats.demolab.com?user=chathurya-buddhini&amp;theme=gruvbox&amp;border_radius=1" style="height:197px; width:400px" />
 </p>
 
 ---
